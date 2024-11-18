@@ -1,0 +1,3378 @@
+[
+    {
+        "id": 1,
+        "name": "MS Dhoni",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319946.3.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 374,
+            "runs": 7432,
+            "strike_rate": 135.64
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ambati Rayudu",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 86,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316499.2.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 307,
+            "runs": 6176,
+            "strike_rate": 124.24
+        }
+    },
+    {
+        "id": 3,
+        "name": "AB de Villiers",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316555.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 341,
+            "runs": 9424,
+            "strike_rate": 150.13
+        }
+    },
+    {
+        "id": 4,
+        "name": "KL Rahul",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 77,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319942.3.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 224,
+            "runs": 7586,
+            "strike_rate": 135.85
+        }
+    },
+    {
+        "id": 5,
+        "name": "Nicholas Pooran",
+        "role": "Wicketkeeper Batter",
+        "country": "West Indies",
+        "rating": 84,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320109.2.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 263,
+            "runs": 8261,
+            "strike_rate": 148.79
+        }
+    },
+    {
+        "id": 6,
+        "name": "Quinton de Kock",
+        "role": "Wicketkeeper Batter",
+        "country": "South Africa",
+        "rating": 83,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316668.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 271,
+            "runs": 10529,
+            "strike_rate": 138.63
+        }
+    },
+    {
+        "id": 7,
+        "name": "Aditya Tare",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/308900/308968.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 167,
+            "runs": 2450,
+            "strike_rate": 131.86
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rishabh Pant",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 76,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323036.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 204,
+            "runs": 5022,
+            "strike_rate": 145.06
+        }
+    },
+    {
+        "id": 9,
+        "name": "Sam Billings",
+        "role": "Wicketkeeper Batte",
+        "country": "England",
+        "rating": 81,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322900/322932.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batte",
+        "stats": {
+            "matches": 263,
+            "runs": 6521,
+            "strike_rate": 132.54
+        }
+    },
+    {
+        "id": 10,
+        "name": "Vishnu Vinod",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 60,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/359700/359774.1.png",
+        "capped": 0,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 93,
+            "runs": 1591,
+            "strike_rate": 142.69
+        }
+    },
+    {
+        "id": 11,
+        "name": "Sanju Samson",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 75,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322700/322701.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 213,
+            "runs": 6941,
+            "strike_rate": 135.56
+        }
+    },
+    {
+        "id": 12,
+        "name": "Jos Buttler",
+        "role": "Wicketkeeper Batter",
+        "country": "England",
+        "rating": 89,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383143.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 304,
+            "runs": 11842,
+            "strike_rate": 145.03
+        }
+    },
+    {
+        "id": 13,
+        "name": "Sheldon Jackson",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 59,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/341000/341037.1.png",
+        "capped": 0,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 115,
+            "runs": 1812,
+            "strike_rate": 120.07
+        }
+    },
+    {
+        "id": 14,
+        "name": "Dinesh Karthik",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319934.2.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 363,
+            "runs": 7407,
+            "strike_rate": 136.96
+        }
+    },
+    {
+        "id": 15,
+        "name": "Jonny Bairstow",
+        "role": "Wicketkeeper Batter",
+        "country": "England",
+        "rating": 75,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383157.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 207,
+            "runs": 5153,
+            "strike_rate": 137.59
+        }
+    },
+    {
+        "id": 16,
+        "name": "Shreevats Goswami",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 58,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309000/309088.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 111,
+            "runs": 2437,
+            "strike_rate": 115.55
+        }
+    },
+    {
+        "id": 17,
+        "name": "Wriddhiman Saha",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 78,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323033.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 248,
+            "runs": 4655,
+            "strike_rate": 127.95
+        }
+    },
+    {
+        "id": 18,
+        "name": "Jitesh Sharma",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380600/380690.1.png",
+        "capped": 0,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 120,
+            "runs": 2490,
+            "strike_rate": 147.59
+        }
+    },
+    {
+        "id": 19,
+        "name": "Rahmanullah Gurbaz",
+        "role": "Wicketkeeper Batter",
+        "country": "Afghanistan",
+        "rating": 75,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383237.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 198,
+            "runs": 4870,
+            "strike_rate": 147.3
+        }
+    },
+    {
+        "id": 20,
+        "name": "Phil Salt",
+        "role": "Wicketkeeper Batter",
+        "country": "England",
+        "rating": 86,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383141.1.png",
+        "capped": 1,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 263,
+            "runs": 6355,
+            "strike_rate": 155.41
+        }
+    },
+    {
+        "id": 21,
+        "name": "Dhruv Jurel",
+        "role": "Wicketkeeper Batter",
+        "country": "India",
+        "rating": 52,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/340300/340310.1.png",
+        "capped": 0,
+        "style": "Wicketkeeper Batter",
+        "stats": {
+            "matches": 40,
+            "runs": 445,
+            "strike_rate": 133.63
+        }
+    },
+    {
+        "id": 22,
+        "name": "Imran Tahir",
+        "role": "bowler",
+        "country": "South Africa",
+        "rating": 98,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316526.1.png",
+        "capped": 1,
+        "style": "Legbreak Googly",
+        "stats": {
+            "matches": 367,
+            "wickets": 518,
+            "economy": 6.99
+        }
+    },
+    {
+        "id": 23,
+        "name": "Deepak Chahar",
+        "role": "bowler",
+        "country": "India",
+        "rating": 80,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322700/322704.1.png",
+        "capped": 1,
+        "style": "Right arm Medium",
+        "stats": {
+            "matches": 123,
+            "wickets": 167,
+            "economy": 7.78
+        }
+    },
+    {
+        "id": 24,
+        "name": "chetan Sakariya",
+        "role": "bowler",
+        "country": "India",
+        "rating": 70,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322696.1.png",
+        "capped": 0,
+        "style": "Left arm Medium fast",
+        "stats": {
+            "matches": 63,
+            "wickets": 174,
+            "economy": 8.82
+        }
+    },
+    {
+        "id": 25,
+        "name": "Lungi Ngidi",
+        "role": "bowler",
+        "country": "South Africa",
+        "rating": 85,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322069.1.png",
+        "capped": 1,
+        "style": "Right arm Fast medium",
+        "stats": {
+            "matches": 143,
+            "wickets": 177,
+            "economy": 8.31
+        }
+    },
+    {
+        "id": 26,
+        "name": "Jason Behrendorff",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 80,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321589.2.png",
+        "capped": 1,
+        "style": "Left arm Fast medium",
+        "stats": {
+            "matches": 111,
+            "wickets": 184,
+            "economy": 7.58
+        }
+    },
+    {
+        "id": 27,
+        "name": "chetan Sakariya",
+        "role": "bowler",
+        "country": "India",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380600/380674.5.png",
+        "capped": 0,
+        "style": "Left arm Medium fast",
+        "stats": {
+            "matches": 143,
+            "wickets": 337,
+            "economy": 7.42
+        }
+    },
+    {
+        "id": 28,
+        "name": "Kane Richardson",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 87,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321594.2.png",
+        "capped": 1,
+        "style": "Right arm Fast medium",
+        "stats": {
+            "matches": 123,
+            "wickets": 234,
+            "economy": 8.18
+        }
+    },
+    {
+        "id": 29,
+        "name": "Mohammed Siraj",
+        "role": "bowler",
+        "country": "India",
+        "rating": 74,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322611.1.png",
+        "capped": 1,
+        "style": "Right arm Fast",
+        "stats": {
+            "matches": 93,
+            "wickets": 160,
+            "economy": 8.21
+        }
+    },
+    {
+        "id": 30,
+        "name": "Navdeep Saini",
+        "role": "bowler",
+        "country": "India",
+        "rating": 60,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322700/322702.1.png",
+        "capped": 1,
+        "style": "Right arm Fast",
+        "stats": {
+            "matches": 63,
+            "wickets": 73,
+            "economy": 7.64
+        }
+    },
+    {
+        "id": 31,
+        "name": "Shahbaz Ahmed",
+        "role": "bowler",
+        "country": "India",
+        "rating": 91,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/340300/340313.1.png",
+        "capped": 1,
+        "style": "Slow Left arm Orthodox",
+        "stats": {
+            "matches": 233,
+            "wickets": 61,
+            "economy": 7.72
+        }
+    },
+    {
+        "id": 32,
+        "name": "Yuzvendra Chahal",
+        "role": "bowler",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319955.1.png",
+        "capped": 1,
+        "style": "Legbreak Googly",
+        "stats": {
+            "matches": 143,
+            "wickets": 354,
+            "economy": 7.7
+        }
+    },
+    {
+        "id": 33,
+        "name": "Harshal Patel",
+        "role": "bowler",
+        "country": "India",
+        "rating": 75,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381300/381372.1.png",
+        "capped": 1,
+        "style": "Right arm Medium",
+        "stats": {
+            "matches": 63,
+            "wickets": 233,
+            "economy": 8.36
+        }
+    },
+    {
+        "id": 34,
+        "name": "Harpreet Brar",
+        "role": "bowler",
+        "country": "India",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381300/381368.1.png",
+        "capped": 1,
+        "style": "Slow Left arm Orthodox",
+        "stats": {
+            "matches": 93,
+            "wickets": 72,
+            "economy": 7.23
+        }
+    },
+    {
+        "id": 35,
+        "name": "Jhye Richardson",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321591.3.png",
+        "capped": 1,
+        "style": "Right arm Fast",
+        "stats": {
+            "matches": 83,
+            "wickets": 116,
+            "economy": 8.0
+        }
+    },
+    {
+        "id": 36,
+        "name": "Ravi Bishnoi",
+        "role": "bowler",
+        "country": "India",
+        "rating": 70,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/337100/337188.1.png",
+        "capped": 1,
+        "style": "Legbreak Googly",
+        "stats": {
+            "matches": 73,
+            "wickets": 159,
+            "economy": 7.29
+        }
+    },
+    {
+        "id": 37,
+        "name": "Riley Meredith",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321600/321603.2.png",
+        "capped": 1,
+        "style": "Right arm Fast",
+        "stats": {
+            "matches": 203,
+            "wickets": 129,
+            "economy": 8.37
+        }
+    },
+    {
+        "id": 38,
+        "name": "Mohammad Shami",
+        "role": "bowler",
+        "country": "India",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390300/390351.5.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 173,
+            "wickets": 190,
+            "economy": 8.21
+        }
+    },
+    {
+        "id": 39,
+        "name": "Nathan Coulter-Nile",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 80,
+        "images": "https://documents.iplt20.com/playerheadshot/ipl/284/840.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 183,
+            "wickets": 48,
+            "economy": 7.79
+        }
+    },
+    {
+        "id": 40,
+        "name": "Trent Boult",
+        "role": "bowler",
+        "country": "New Zealand",
+        "rating": 91,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383185.1.png",
+        "capped": 1,
+        "style": "Left arm Fast medium",
+        "stats": {
+            "matches": 123,
+            "wickets": 275,
+            "economy": 8.06
+        }
+    },
+    {
+        "id": 41,
+        "name": "Jayant Yadav",
+        "role": "bowler",
+        "country": "India",
+        "rating": 73,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322500/322553.1.png",
+        "capped": 1,
+        "style": "Right arm Offbreak",
+        "stats": {
+            "matches": 143,
+            "wickets": 52,
+            "economy": 6.33
+        }
+    },
+    {
+        "id": 42,
+        "name": "Jasprit Bumrah",
+        "role": "bowler",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319940.2.png",
+        "capped": 1,
+        "style": "Right arm Fast",
+        "stats": {
+            "matches": 143,
+            "wickets": 295,
+            "economy": 6.89
+        }
+    },
+    {
+        "id": 43,
+        "name": "Dhawal Kulkarni",
+        "role": "bowler",
+        "country": "India",
+        "rating": 83,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316621.2.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 143,
+            "wickets": 154,
+            "economy": 7.87
+        }
+    },
+    {
+        "id": 44,
+        "name": "Adam Milne",
+        "role": "bowler",
+        "country": "New Zealand ",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316689.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 183,
+            "wickets": 209,
+            "economy": 7.87
+        }
+    },
+    {
+        "id": 45,
+        "name": "Kagiso Rabada",
+        "role": "bowler",
+        "country": "South Africa",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320376.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 83,
+            "wickets": 264,
+            "economy": 8.05
+        }
+    },
+    {
+        "id": 46,
+        "name": "Avesh Khan",
+        "role": "bowler",
+        "country": "India",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322244.1.png",
+        "capped": 1,
+        "style": "right hand fast medium",
+        "stats": {
+            "matches": 233,
+            "wickets": 140,
+            "economy": 8.46
+        }
+    },
+    {
+        "id": 47,
+        "name": "Amit Mishra",
+        "role": "bowler",
+        "country": "India",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/171800/171883.jpg",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 203,
+            "wickets": 34,
+            "economy": 7.58
+        }
+    },
+    {
+        "id": 48,
+        "name": "Ishant Sharma",
+        "role": "bowler",
+        "country": "India",
+        "rating": 66,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316602.3.png",
+        "capped": 1,
+        "style": "right arm fast medium",
+        "stats": {
+            "matches": 63,
+            "wickets": 141,
+            "economy": 7.85
+        }
+    },
+    {
+        "id": 49,
+        "name": "Pravin Dubey",
+        "role": "bowler",
+        "country": "India",
+        "rating": 58,
+        "images": "https://documents.iplt20.com/playerheadshot/ipl/284/3188.png",
+        "capped": 0,
+        "style": "right arm leg spin",
+        "stats": {
+            "matches": 93,
+            "wickets": 1,
+            "economy": 8.27
+        }
+    },
+    {
+        "id": 50,
+        "name": "Anrich Nortje",
+        "role": "bowler",
+        "country": "South Africa",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322080.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 203,
+            "wickets": 180,
+            "economy": 7.81
+        }
+    },
+    {
+        "id": 51,
+        "name": "Umesh Yadav",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316667.2.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 193,
+            "wickets": 201,
+            "economy": 8.3
+        }
+    },
+    {
+        "id": 52,
+        "name": "Lukman Meriwala",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 62,
+        "images": "https://documents.iplt20.com/playerheadshot/ipl/284/7803.png",
+        "capped": 0,
+        "style": "left arm fast medium",
+        "stats": {
+            "matches": 64,
+            "wickets": 97,
+            "economy": 6.92
+        }
+    },
+    {
+        "id": 53,
+        "name": "Tom Curran",
+        "role": "bowler",
+        "country": "England",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323112.1.png",
+        "capped": 1,
+        "style": "right arm fast medium",
+        "stats": {
+            "matches": 211,
+            "wickets": 228,
+            "economy": 8.75
+        }
+    },
+    {
+        "id": 54,
+        "name": "Andrew Tye",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321558.1.png",
+        "capped": 1,
+        "style": "right arm medium fast",
+        "stats": {
+            "matches": 241,
+            "wickets": 337,
+            "economy": 15.3
+        }
+    },
+    {
+        "id": 55,
+        "name": "Kartik Tyagi",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 49,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339100/339150.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 33,
+            "wickets": 25,
+            "economy": 9.33
+        }
+    },
+    {
+        "id": 56,
+        "name": "Jaydev Unadkat",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386332.5.png",
+        "capped": 1,
+        "style": "left arm medium",
+        "stats": {
+            "matches": 191,
+            "wickets": 226,
+            "economy": 8.06
+        }
+    },
+    {
+        "id": 57,
+        "name": "Mayank Markande",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/355400/355403.1.png",
+        "capped": 0,
+        "style": "legbreak",
+        "stats": {
+            "matches": 81,
+            "wickets": 88,
+            "economy": 7.84
+        }
+    },
+    {
+        "id": 58,
+        "name": "Chetan Sakariya",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 56,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380600/380674.5.png",
+        "capped": 1,
+        "style": "left arm medium fast",
+        "stats": {
+            "matches": 46,
+            "wickets": 65,
+            "economy": 7.69
+        }
+    },
+    {
+        "id": 59,
+        "name": "KC Cariappa",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 53,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356801.1.png",
+        "capped": 0,
+        "style": "legbreak ",
+        "stats": {
+            "matches": 45,
+            "wickets": 45,
+            "economy": 6.57
+        }
+    },
+    {
+        "id": 60,
+        "name": "Mustafizur Rahman",
+        "role": "bowler",
+        "country": "Bangladesh",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319734.3.png",
+        "capped": 1,
+        "style": "left arm fast medium",
+        "stats": {
+            "matches": 45,
+            "wickets": 337,
+            "economy": 7.51
+        }
+    },
+    {
+        "id": 61,
+        "name": "Sandeep Warrier",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 62,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/359700/359763.1.png",
+        "capped": 1,
+        "style": "Right arm medium",
+        "stats": {
+            "matches": 77,
+            "wickets": 69,
+            "economy": 7.31
+        }
+    },
+    {
+        "id": 62,
+        "name": "Kuldeep Yadav",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 91,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319943.2.png",
+        "capped": 1,
+        "style": "Left arm wrist spin",
+        "stats": {
+            "matches": 161,
+            "wickets": 200,
+            "economy": 7.49
+        }
+    },
+    {
+        "id": 63,
+        "name": "Sunil Narine",
+        "role": "bowler",
+        "country": "West Indies",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320119.1.png",
+        "capped": 1,
+        "style": "right arm offbreak",
+        "stats": {
+            "matches": 526,
+            "wickets": 569,
+            "economy": 6.12
+        }
+    },
+    {
+        "id": 64,
+        "name": "Lockie Ferguson",
+        "role": "bowler",
+        "country": "New Zealand",
+        "rating": 90,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383174.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 161,
+            "wickets": 191,
+            "economy": 7.75
+        }
+    },
+    {
+        "id": 65,
+        "name": "Ben Cutting",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 94,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321561.1.png",
+        "capped": 1,
+        "style": "right arm fast medium",
+        "stats": {
+            "matches": 212,
+            "wickets": 137,
+            "economy": 9.03
+        }
+    },
+    {
+        "id": 66,
+        "name": "Pat Cummins",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 88,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386324.5.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 157,
+            "wickets": 176,
+            "economy": 8.15
+        }
+    },
+    {
+        "id": 67,
+        "name": "Kamlesh Nagarkoti",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 47,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339100/339149.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 25,
+            "wickets": 19,
+            "economy": 8.14
+        }
+    },
+    {
+        "id": 68,
+        "name": "Basil Thampi",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309000/309057.jpg",
+        "capped": 1,
+        "style": "right arm medium fast",
+        "stats": {
+            "matches": 86,
+            "wickets": 87,
+            "economy": 8.38
+        }
+    },
+    {
+        "id": 69,
+        "name": "Bhuvneshwar Kumar",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 98,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386325.5.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 286,
+            "wickets": 299,
+            "economy": 7.3
+        }
+    },
+    {
+        "id": 70,
+        "name": "Rashid Khan",
+        "role": "bowler",
+        "country": "Afghanistan",
+        "rating": 98,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383228.1.png",
+        "capped": 1,
+        "style": "legbreak googly",
+        "stats": {
+            "matches": 448,
+            "wickets": 613,
+            "economy": 6.48
+        }
+    },
+    {
+        "id": 71,
+        "name": "Sandeep Sharma",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323055.1.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 188,
+            "wickets": 205,
+            "economy": 7.6
+        }
+    },
+    {
+        "id": 72,
+        "name": "Shahbaz Nadeem",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 81,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322700/322710.1.png",
+        "capped": 0,
+        "style": "slow left arm orthodox",
+        "stats": {
+            "matches": 150,
+            "wickets": 125,
+            "economy": 6.76
+        }
+    },
+    {
+        "id": 73,
+        "name": "Siddarth Kaul",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 86,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/324200/324220.1.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 145,
+            "wickets": 182,
+            "economy": 7.67
+        }
+    },
+    {
+        "id": 74,
+        "name": "Khaleel Ahmed",
+        "role": "bowler",
+        "country": "India ",
+        "rating": 76,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322268.1.png",
+        "capped": 1,
+        "style": "left arm fast medium",
+        "stats": {
+            "matches": 114,
+            "wickets": 144,
+            "economy": 8.37
+        }
+    },
+    {
+        "id": 75,
+        "name": "T Natarajan",
+        "role": "bowler",
+        "country": "India",
+        "rating": 65,
+        "images": "https://documents.iplt20.com/playerheadshot/ipl/284/3831.png",
+        "capped": 1,
+        "style": "left arm medium",
+        "stats": {
+            "matches": 95,
+            "wickets": 67,
+            "economy": 8.83
+        }
+    },
+    {
+        "id": 76,
+        "name": "Jagadeesha Suchith",
+        "role": "bowler",
+        "country": "India",
+        "rating": 63,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309100/309109.png",
+        "capped": 1,
+        "style": "slow left arm orthodox",
+        "stats": {
+            "matches": 80,
+            "wickets": 70,
+            "economy": 7.3
+        }
+    },
+    {
+        "id": 77,
+        "name": "Mujeeb Ur Rahman",
+        "role": "bowler",
+        "country": "Afghanistan",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383240.1.png",
+        "capped": 1,
+        "style": "right arm offbreak",
+        "stats": {
+            "matches": 241,
+            "wickets": 257,
+            "economy": 6.76
+        }
+    },
+    {
+        "id": 78,
+        "name": "Kwena Maphaka",
+        "role": "bowler",
+        "country": "South Africa",
+        "rating": 47,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339500/339569.6.png",
+        "capped": 1,
+        "style": "left arm medium",
+        "stats": {
+            "matches": 21,
+            "wickets": 28,
+            "economy": 7.4
+        }
+    },
+    {
+        "id": 79,
+        "name": "Tim Southee",
+        "role": "bowler",
+        "country": "New Zealand",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383184.1.png",
+        "capped": 1,
+        "style": "right arm medium fast",
+        "stats": {
+            "matches": 273,
+            "wickets": 333,
+            "economy": 8.1
+        }
+    },
+    {
+        "id": 80,
+        "name": "Matheesha Pathirana",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "rating": 64,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/355400/355402.1.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 69,
+            "wickets": 102,
+            "economy": 8.05
+        }
+    },
+    {
+        "id": 81,
+        "name": "Lasith Malinga",
+        "role": "bowler",
+        "country": "Sri Lanka",
+        "rating": 98,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316539.2.png",
+        "capped": 1,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 295,
+            "wickets": 390,
+            "economy": 7.07
+        }
+    },
+    {
+        "id": 82,
+        "name": "Josh Reginald Hazlewood",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 74,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386321.5.png",
+        "capped": 1,
+        "style": "right arm fast medium",
+        "stats": {
+            "matches": 107,
+            "wickets": 136,
+            "economy": 7.51
+        }
+    },
+    {
+        "id": 83,
+        "name": "Yash Thakur",
+        "role": "bowler",
+        "country": "India",
+        "rating": 59,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356790.1.png",
+        "capped": 0,
+        "style": "right arm fast medium",
+        "stats": {
+            "matches": 56,
+            "wickets": 79,
+            "economy": 7.98
+        }
+    },
+    {
+        "id": 84,
+        "name": "Vaibhav Arora",
+        "role": "bowler",
+        "country": "India",
+        "rating": 53,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/389500/389547.5.png",
+        "capped": 0,
+        "style": "right arm fast medium",
+        "stats": {
+            "matches": 45,
+            "wickets": 44,
+            "economy": 8.31
+        }
+    },
+    {
+        "id": 85,
+        "name": "Harshit Rana",
+        "role": "bowler",
+        "country": "India",
+        "rating": 48,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/358000/358042.3.png",
+        "capped": 0,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 25,
+            "wickets": 28,
+            "economy": 8.94
+        }
+    },
+    {
+        "id": 86,
+        "name": "Tushar Deshpande",
+        "role": "bowler",
+        "country": "India",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386339.5.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 82,
+            "wickets": 118,
+            "economy": 8.54
+        }
+    },
+    {
+        "id": 87,
+        "name": "Arshdeep Singh",
+        "role": "bowler",
+        "country": "India",
+        "rating": 87,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386328.5.png",
+        "capped": 1,
+        "style": "left arm medium fast",
+        "stats": {
+            "matches": 145,
+            "wickets": 189,
+            "economy": 8.44
+        }
+    },
+    {
+        "id": 88,
+        "name": "Sai Kishore",
+        "role": "bowler",
+        "country": "India",
+        "rating": 59,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/362500/362558.6.png",
+        "capped": 0,
+        "style": "slow left arm orthodox",
+        "stats": {
+            "matches": 63,
+            "wickets": 71,
+            "economy": 5.74
+        }
+    },
+    {
+        "id": 89,
+        "name": "Josh Little",
+        "role": "bowler",
+        "country": "Ireland",
+        "rating": 81,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/367800/367860.1.png",
+        "capped": 1,
+        "style": "left arm fast medium",
+        "stats": {
+            "matches": 133,
+            "wickets": 154,
+            "economy": 7.76
+        }
+    },
+    {
+        "id": 90,
+        "name": "Mayank Yadav",
+        "role": "bowler",
+        "country": "India",
+        "rating": 46,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/373900/373904.1.png",
+        "capped": 0,
+        "style": "right arm fast",
+        "stats": {
+            "matches": 17,
+            "wickets": 23,
+            "economy": 6.67
+        }
+    },
+    {
+        "id": 91,
+        "name": "Varun Chakaravarthy",
+        "role": "bowler",
+        "country": "India",
+        "rating": 55,
+        "images": "https://documents.iplt20.com/ipl/IPLHeadshot2024/140.png",
+        "capped": 1,
+        "style": "right arm leg spin",
+        "stats": {
+            "matches": 71,
+            "wickets": 7,
+            "economy": 5.94
+        }
+    },
+    {
+        "id": 92,
+        "name": "Rahul Chahar",
+        "role": "bowler",
+        "country": "India",
+        "rating": 77,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331166.1.png",
+        "capped": 1,
+        "style": "Legbreak googly",
+        "stats": {
+            "matches": 123,
+            "wickets": 130,
+            "economy": 7.6
+        }
+    },
+    {
+        "id": 93,
+        "name": "mohit sharma",
+        "role": "bowler",
+        "country": "India",
+        "rating": 87,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316700/316702.2.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 160,
+            "wickets": 163,
+            "economy": 8.44
+        }
+    },
+    {
+        "id": 94,
+        "name": "simarjeet singh",
+        "role": "bowler",
+        "country": "India",
+        "rating": 50,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356835.1.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 30,
+            "wickets": 43,
+            "economy": 3.36
+        }
+    },
+    {
+        "id": 95,
+        "name": "Rasikh Salam",
+        "role": "bowler",
+        "country": "india",
+        "rating": 47,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/341000/341040.1.png",
+        "capped": 1,
+        "style": "right arm medium",
+        "stats": {
+            "matches": 27,
+            "wickets": 9,
+            "economy": 10.43
+        }
+    },
+    {
+        "id": 96,
+        "name": "Naveen-Ul-Haq",
+        "role": "bowler",
+        "country": "Afghanistan",
+        "rating": 46,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383238.1.png",
+        "capped": 1,
+        "style": "right arm bowler ",
+        "stats": {
+            "matches": 18,
+            "wickets": 25,
+            "economy": 9.16
+        }
+    },
+    {
+        "id": 97,
+        "name": "Jofra Archer",
+        "role": "bowler",
+        "country": "England",
+        "rating": 89,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383146.1.png",
+        "capped": 1,
+        "style": "right hand bat, right arm fast",
+        "stats": {
+            "matches": 155,
+            "wickets": 195,
+            "economy": 7.72
+        }
+    },
+    {
+        "id": 98,
+        "name": "Shivam Mavi",
+        "role": "bowler",
+        "country": "India",
+        "rating": 56,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/341000/341042.1.png",
+        "capped": 0,
+        "style": "right hand bat, right arm fast medium",
+        "stats": {
+            "matches": 52,
+            "wickets": 53,
+            "economy": 8.31
+        }
+    },
+    {
+        "id": 99,
+        "name": "Harbhajan Singh",
+        "role": "bowler",
+        "country": "India",
+        "rating": 98,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319937.2.png",
+        "capped": 1,
+        "style": "right hand bat, right arm offbreak",
+        "stats": {
+            "matches": 268,
+            "wickets": 235,
+            "economy": 6.79
+        }
+    },
+    {
+        "id": 100,
+        "name": "Mitchell starc",
+        "role": "bowler",
+        "country": "Australia",
+        "rating": 86,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386322.5.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 142,
+            "wickets": 193,
+            "economy": 7.77
+        }
+    },
+    {
+        "id": 101,
+        "name": "Ruturaj Gaikwad",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322236.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 140,
+            "runs": 4751,
+            "strike_rate": 139.65
+        }
+    },
+    {
+        "id": 102,
+        "name": "Narayan Jagadeesan",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 54,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/362300/362328.6.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 59,
+            "runs": 1195,
+            "strike_rate": 118.78
+        }
+    },
+    {
+        "id": 103,
+        "name": "Suresh Raina",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 90,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316523.3.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 336,
+            "runs": 8654,
+            "strike_rate": 137.45
+        }
+    },
+    {
+        "id": 104,
+        "name": "Faf du Plessis",
+        "role": "Batsman",
+        "country": "South Africa",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316559.1.png",
+        "capped": 1,
+        "style": "Right hand bat",
+        "stats": {
+            "matches": 393,
+            "runs": 10950,
+            "strike_rate": 136.17
+        }
+    },
+    {
+        "id": 105,
+        "name": "Cheteshwar Pujara",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 54,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319932.2.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 71,
+            "runs": 1556,
+            "strike_rate": 112.18
+        }
+    },
+    {
+        "id": 106,
+        "name": "Robin Uthappa",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 84,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322500/322555.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 291,
+            "runs": 7272,
+            "strike_rate": 133.08
+        }
+    },
+    {
+        "id": 107,
+        "name": "Virat Kohli",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316605.3.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 399,
+            "runs": 12886,
+            "strike_rate": 134.2
+        }
+    },
+    {
+        "id": 108,
+        "name": "Devdutt Padikkal",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 61,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322229.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 99,
+            "runs": 2806,
+            "strike_rate": 131.98
+        }
+    },
+    {
+        "id": 109,
+        "name": "Sachin Baby",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 61,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/281000/281081.1.jpg",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 98,
+            "runs": 1925,
+            "strike_rate": 130.86
+        }
+    },
+    {
+        "id": 110,
+        "name": "Rajat Patidar",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 61,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/378000/378081.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 65,
+            "runs": 2035,
+            "strike_rate": 153.35
+        }
+    },
+    {
+        "id": 111,
+        "name": "Sarfaraz Khan",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 60,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386338.16.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 96,
+            "runs": 1188,
+            "strike_rate": 128.29
+        }
+    },
+    {
+        "id": 112,
+        "name": "Mayank Agarwal",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 74,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322626.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 204,
+            "runs": 4738,
+            "strike_rate": 133.46
+        }
+    },
+    {
+        "id": 113,
+        "name": "Shahrukh Khan",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 61,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/359700/359756.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 90,
+            "runs": 1055,
+            "strike_rate": 137.01
+        }
+    },
+    {
+        "id": 114,
+        "name": "Dawid Malan",
+        "role": "Batsman",
+        "country": "England",
+        "rating": 91,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323003.1.png",
+        "capped": 1,
+        "style": "Left hand Bat\r\n\r\n",
+        "stats": {
+            "matches": 352,
+            "runs": 9609,
+            "strike_rate": 128.68
+        }
+    },
+    {
+        "id": 115,
+        "name": "Rohit Sharma",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385800/385819.2.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 257,
+            "runs": 11830,
+            "strike_rate": 134.76
+        }
+    },
+    {
+        "id": 116,
+        "name": "Saurabh Tiwary",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 69,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322271.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 181,
+            "runs": 3454,
+            "strike_rate": 122.17
+        }
+    },
+    {
+        "id": 117,
+        "name": "Suryakumar Yadav",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 89,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331163.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 296,
+            "runs": 7717,
+            "strike_rate": 153.08
+        }
+    },
+    {
+        "id": 118,
+        "name": "Chris Lynn",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 85,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321566.2.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 285,
+            "runs": 8074,
+            "strike_rate": 142.42
+        }
+    },
+    {
+        "id": 119,
+        "name": "Ajinkya Rahane",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 79,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316620.3.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 262,
+            "runs": 6383,
+            "strike_rate": 121.67
+        }
+    },
+    {
+        "id": 120,
+        "name": "Shreyas Iyer",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 75,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323035.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 214,
+            "runs": 5629,
+            "strike_rate": 131.3
+        }
+    },
+    {
+        "id": 121,
+        "name": "Shikhar Dhawan",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 88,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316524.2.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 334,
+            "runs": 9797,
+            "strike_rate": 125.34
+        }
+    },
+    {
+        "id": 122,
+        "name": "Shimron Hetmyer",
+        "role": "Batsman",
+        "country": "West Indies",
+        "rating": 78,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320116.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 236,
+            "runs": 4596,
+            "strike_rate": 136.94
+        }
+    },
+    {
+        "id": 123,
+        "name": "Prithvi Shaw",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 66,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322622.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 108,
+            "runs": 2705,
+            "strike_rate": 151.2
+        }
+    },
+    {
+        "id": 124,
+        "name": "Yashasvi Jaiswal",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 85,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/340300/340309.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 104,
+            "runs": 2978,
+            "strike_rate": 150.25
+        }
+    },
+    {
+        "id": 125,
+        "name": "Anuj Rawat",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 54,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/359700/359757.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 63,
+            "runs": 1067,
+            "strike_rate": 117.64
+        }
+    },
+    {
+        "id": 126,
+        "name": "David Miller",
+        "role": "Batsman",
+        "country": "South Africa",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316655.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 505,
+            "runs": 10802,
+            "strike_rate": 137.85
+        }
+    },
+    {
+        "id": 127,
+        "name": "Liam Livingstone",
+        "role": "Batsman",
+        "country": "England",
+        "rating": 86,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383152.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 286,
+            "runs": 6583,
+            "strike_rate": 144.42
+        }
+    },
+    {
+        "id": 128,
+        "name": "Manan Vohra",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 64,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356788.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 125,
+            "runs": 3257,
+            "strike_rate": 128.97
+        }
+    },
+    {
+        "id": 129,
+        "name": "Eoin Morgan",
+        "role": "Batsman",
+        "country": "England",
+        "rating": 94,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316564.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 374,
+            "runs": 7780,
+            "strike_rate": 131.59
+        }
+    },
+    {
+        "id": 130,
+        "name": "Shubman Gill",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322697.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 145,
+            "runs": 4471,
+            "strike_rate": 136.72
+        }
+    },
+    {
+        "id": 131,
+        "name": "Nitish Rana",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 72,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323054.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 184,
+            "runs": 4520,
+            "strike_rate": 135.49
+        }
+    },
+    {
+        "id": 132,
+        "name": "Gurkeerat Mann Singh",
+        "role": "Batsman",
+        "country": "India ",
+        "rating": 62,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322700/322712.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 119,
+            "runs": 1986,
+            "strike_rate": 123.66
+        }
+    },
+    {
+        "id": 133,
+        "name": "Rahul Tripathi",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356821.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 156,
+            "runs": 3466,
+            "strike_rate": 134.65
+        }
+    },
+    {
+        "id": 134,
+        "name": "Kane Williamson",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 254,
+            "runs": 6442,
+            "strike_rate": 122.58
+        }
+    },
+    {
+        "id": 135,
+        "name": "Abdul Samad",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 62,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339100/339145.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 83,
+            "runs": 1339,
+            "strike_rate": 146.33
+        }
+    },
+    {
+        "id": 136,
+        "name": "David Warner",
+        "role": "Batsman",
+        "country": "Australia",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316589.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 385,
+            "runs": 12411,
+            "strike_rate": 140.07
+        }
+    },
+    {
+        "id": 137,
+        "name": "Manish Pandey",
+        "role": "Batsman",
+        "country": "India ",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323052.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 172,
+            "runs": 6891,
+            "strike_rate": 123.25
+        }
+    },
+    {
+        "id": 138,
+        "name": "Priyam Garg",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 52,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339100/339155.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 46,
+            "runs": 623,
+            "strike_rate": 114.52
+        }
+    },
+    {
+        "id": 139,
+        "name": "Virat Singh",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 58,
+        "images": "https://documents.iplt20.com/playerheadshot/ipl/284/6966.png",
+        "capped": 0,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 79,
+            "runs": 2249,
+            "strike_rate": 127.42
+        }
+    },
+    {
+        "id": 140,
+        "name": "Jason Roy",
+        "role": "Batsman",
+        "country": "England",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319791.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 375,
+            "runs": 9657,
+            "strike_rate": 141.1
+        }
+    },
+    {
+        "id": 141,
+        "name": "Ayush Badoni",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 58,
+        "images": "https://documents.iplt20.com/ipl/IPLHeadshot2024/985.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 66,
+            "runs": 1073,
+            "strike_rate": 136.51
+        }
+    },
+    {
+        "id": 142,
+        "name": "Abhimanyu Easwaran",
+        "role": "Batsman",
+        "country": "India ",
+        "rating": 53,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/326400/326487.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 34,
+            "runs": 976,
+            "strike_rate": 128.59
+        }
+    },
+    {
+        "id": 143,
+        "name": "Ishan Kishan",
+        "role": "Batsman",
+        "country": "India ",
+        "rating": 72,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331165.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 186,
+            "runs": 4755,
+            "strike_rate": 132.19
+        }
+    },
+    {
+        "id": 144,
+        "name": "Travis Head",
+        "role": "Batsman",
+        "country": "Australia",
+        "rating": 70,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321584.2.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 146,
+            "runs": 3936,
+            "strike_rate": 148.47
+        }
+    },
+    {
+        "id": 145,
+        "name": "Anmolpreet Singh",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 57,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/358000/358038.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 65,
+            "runs": 1204,
+            "strike_rate": 129.04
+        }
+    },
+    {
+        "id": 146,
+        "name": "Baba Indrajith",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 46,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/362300/362370.6.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 23,
+            "runs": 340,
+            "strike_rate": 101.49
+        }
+    },
+    {
+        "id": 147,
+        "name": "Tim David",
+        "role": "Batsman",
+        "country": "Australia",
+        "rating": 85,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/340300/340305.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 251,
+            "runs": 4837,
+            "strike_rate": 160.21
+        }
+    },
+    {
+        "id": 148,
+        "name": "Devon Conway",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "rating": 71,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383148.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 187,
+            "runs": 6028,
+            "strike_rate": 129.05
+        }
+    },
+    {
+        "id": 149,
+        "name": "Rachin Ravindra",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "rating": 58,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383182.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 76,
+            "runs": 1011,
+            "strike_rate": 131.64
+        }
+    },
+    {
+        "id": 150,
+        "name": "Ashutosh Sharma",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 63,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380600/380694.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 26,
+            "runs": 608,
+            "strike_rate": 187.07
+        }
+    },
+    {
+        "id": 151,
+        "name": "Rinku Singh",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 69,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/341000/341043.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 138,
+            "runs": 2671,
+            "strike_rate": 149.13
+        }
+    },
+    {
+        "id": 152,
+        "name": "Sai Sudharsan",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 54,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/361800/361891.1.png",
+        "capped": 0,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 44,
+            "runs": 1503,
+            "strike_rate": 130.69
+        }
+    },
+    {
+        "id": 153,
+        "name": "Heinrich Klaasen",
+        "role": "Batsman",
+        "country": "South Africa",
+        "rating": 79,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322073.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 218,
+            "runs": 4861,
+            "strike_rate": 150.35
+        }
+    },
+    {
+        "id": 154,
+        "name": "Tilak Varma",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 62,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381300/381391.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 88,
+            "runs": 2575,
+            "strike_rate": 142.1
+        }
+    },
+    {
+        "id": 155,
+        "name": "Venkatesh Iyer",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 64,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/337100/337187.1.png",
+        "capped": 1,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 114,
+            "runs": 2669,
+            "strike_rate": 139.15
+        }
+    },
+    {
+        "id": 156,
+        "name": "Shashank Singh",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 60,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380600/380696.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 69,
+            "runs": 1078,
+            "strike_rate": 144.11
+        }
+    },
+    {
+        "id": 157,
+        "name": "Prabhsimran Singh",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 61,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/358000/358040.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 82,
+            "runs": 2166,
+            "strike_rate": 144.11
+        }
+    },
+    {
+        "id": 158,
+        "name": "Jake Fraser-McGurk",
+        "role": "Batsman",
+        "country": "Australia",
+        "rating": 60,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387500/387523.6.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 57,
+            "runs": 1122,
+            "strike_rate": 151.21
+        }
+    },
+    {
+        "id": 159,
+        "name": "Abishek Porel",
+        "role": "Batsman",
+        "country": "India ",
+        "rating": 56,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/380600/380667.1.png",
+        "capped": 0,
+        "style": "left hand bat",
+        "stats": {
+            "matches": 28,
+            "runs": 621,
+            "strike_rate": 149.63
+        }
+    },
+    {
+        "id": 160,
+        "name": "Aiden Markram",
+        "role": "Batsman",
+        "country": "south Africa",
+        "rating": 69,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322067.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 168,
+            "runs": 4017,
+            "strike_rate": 131.74
+        }
+    },
+    {
+        "id": 161,
+        "name": "Rilee Rossouw",
+        "role": "Batsman",
+        "country": "south Africa",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316651.1.png",
+        "capped": 1,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 360,
+            "runs": 9039,
+            "strike_rate": 144.71
+        }
+    },
+    {
+        "id": 162,
+        "name": "Naman Dhir",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 58,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381300/381384.1.png",
+        "capped": 0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 12,
+            "runs": 179,
+            "strike_rate": 167.28
+        }
+    },
+    {
+        "id": 163,
+        "name": "Steve Smith",
+        "role": "Batsman",
+        "country": "Australia",
+        "rating": 85,
+        "images": "https://s.ndtvimg.com/images/entities/300/steven-smith-1053.png",
+        "capped": 1,
+        "style": "Opening Batter",
+        "stats": {
+            "matches": 255,
+            "runs": 5633,
+            "strike_rate": 128.84
+        }
+    },
+    {
+        "id": 164,
+        "name": "Karun Nair",
+        "role": "Batsman",
+        "country": "India",
+        "rating": 68,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322267.1.png",
+        "capped": 1,
+        "style": "Top order Batter.Right arm Offbreak\r\n\r\n\r\n\r\n",
+        "stats": {
+            "matches": 157,
+            "runs": 3207,
+            "strike_rate": 132.41
+        }
+    },
+    {
+        "id": 165,
+        "name": "Tristan Stubbs",
+        "role": "Batsman",
+        "country": "South Africa",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/348500/348577.1.png",
+        "capped": 1,
+        "style": "Right hand bat, Right hand offbreak",
+        "stats": {
+            "matches": 107,
+            "runs": 2283,
+            "strike_rate": 149.21
+        }
+    },
+    {
+        "id": 166,
+        "name": "Moeen Ali",
+        "role": "Allrounder",
+        "country": "England",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383142.1.png",
+        "capped": 1.0,
+        "style": "Batting Allrounder",
+        "stats": {
+            "matches": 362,
+            "runs": 7010,
+            "strike_rate": 139.36,
+            "economy": 7.61,
+            "wickets_taken": 240
+        }
+    },
+    {
+        "id": 167,
+        "name": "Ravindra Jadeja",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316600.2.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 332,
+            "runs": 3684,
+            "strike_rate": 130.45,
+            "economy": 7.59,
+            "wickets_taken": 225
+        }
+    },
+    {
+        "id": 168,
+        "name": "KM Asif",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 80,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356800.1.png",
+        "capped": 1.0,
+        "style": "Right hand Bat",
+        "stats": {
+            "matches": 36,
+            "runs": 2,
+            "strike_rate": 33.33,
+            "economy": 8.32,
+            "wickets_taken": 40
+        }
+    },
+    {
+        "id": 169,
+        "name": "Dwayne Bravo",
+        "role": "Allrounder",
+        "country": "West Indies",
+        "rating": 94,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320000/320092.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 582,
+            "runs": 6970,
+            "strike_rate": 125.44,
+            "economy": 8.26,
+            "wickets_taken": 631
+        }
+    },
+    {
+        "id": 170,
+        "name": "Karn Sharma",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 90,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/324200/324221.1.png",
+        "capped": 1.0,
+        "style": "Left hand Bat",
+        "stats": {
+            "matches": 175,
+            "runs": 1528,
+            "strike_rate": 126.28,
+            "economy": 7.74,
+            "wickets_taken": 149
+        }
+    },
+    {
+        "id": 171,
+        "name": "Mitchell Santner",
+        "role": "Allrounder",
+        "country": "New Zealand",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383180.1.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder.",
+        "stats": {
+            "matches": 205,
+            "runs": 2252,
+            "strike_rate": 131.85,
+            "economy": 7.02,
+            "wickets_taken": 208
+        }
+    },
+    {
+        "id": 172,
+        "name": "Sam Curran",
+        "role": "Allrounder",
+        "country": "England",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383153.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 250,
+            "runs": 3619,
+            "strike_rate": 134.78,
+            "economy": 8.81,
+            "wickets_taken": 247
+        }
+    },
+    {
+        "id": 173,
+        "name": "Washington Sundar",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 99,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322619.1.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder",
+        "stats": {
+            "matches": 147,
+            "runs": 1263,
+            "strike_rate": 119.15,
+            "economy": 6.96,
+            "wickets_taken": 112
+        }
+    },
+    {
+        "id": 174,
+        "name": "Daniel Sams",
+        "role": "Allrounder",
+        "country": "Australia",
+        "rating": 80,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321573.3.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 176,
+            "runs": 1904,
+            "strike_rate": 149.68,
+            "economy": 8.89,
+            "wickets_taken": 214
+        }
+    },
+    {
+        "id": 175,
+        "name": "Glenn Maxwell",
+        "role": "Allrounder",
+        "country": "Australia",
+        "rating": 85,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/389500/389563.5.png",
+        "capped": 1.0,
+        "style": "Batting Allrounder",
+        "stats": {
+            "matches": 447,
+            "runs": 9988,
+            "strike_rate": 173.0,
+            "economy": 173.0,
+            "wickets_taken": 173
+        }
+    },
+    {
+        "id": 176,
+        "name": "Kyle Jamieson",
+        "role": "Allrounder",
+        "country": "New Zealand",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321200/321236.1.png",
+        "capped": 1.0,
+        "style": "Right hand Bat,Right arm Fast medium\r\n\r\n",
+        "stats": {
+            "matches": 66,
+            "runs": 411,
+            "strike_rate": 132.58,
+            "economy": 8.41,
+            "wickets_taken": 75
+        }
+    },
+    {
+        "id": 177,
+        "name": "Dan Christian",
+        "role": "Allrounder",
+        "country": "Australia",
+        "rating": 88,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321572.3.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 409,
+            "runs": 5825,
+            "strike_rate": 137.73,
+            "economy": 8.45,
+            "wickets_taken": 280
+        }
+    },
+    {
+        "id": 178,
+        "name": "Scott Kuggeleijn",
+        "role": "Allrounder",
+        "country": "New Zealand",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321300/321308.1.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder",
+        "stats": {
+            "matches": 162,
+            "runs": 1022,
+            "strike_rate": 134.12,
+            "economy": 8.6,
+            "wickets_taken": 168
+        }
+    },
+    {
+        "id": 179,
+        "name": "Moises Henriques",
+        "role": "Allrounder",
+        "country": "Australia",
+        "rating": 88,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321588.2.png",
+        "capped": 1.0,
+        "style": "Bowler",
+        "stats": {
+            "matches": 271,
+            "runs": 5160,
+            "strike_rate": 127.56,
+            "economy": 8.17,
+            "wickets_taken": 118
+        }
+    },
+    {
+        "id": 180,
+        "name": "Mandeep Singh",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322610.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm medium",
+        "stats": {
+            "matches": 207,
+            "runs": 3905,
+            "strike_rate": 128.66,
+            "economy": 6.67,
+            "wickets_taken": 16
+        }
+    },
+    {
+        "id": 181,
+        "name": "Deepak Hooda",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/345000/345083.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 206,
+            "runs": 3458,
+            "strike_rate": 137.82,
+            "economy": 7.57,
+            "wickets_taken": 24
+        }
+    },
+    {
+        "id": 182,
+        "name": "Fabian Allen",
+        "role": "Allrounder",
+        "country": "West Indies",
+        "rating": 88,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321900/321999.1.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder",
+        "stats": {
+            "matches": 142,
+            "runs": 1307,
+            "strike_rate": 141.75,
+            "economy": 7.9,
+            "wickets_taken": 93
+        }
+    },
+    {
+        "id": 183,
+        "name": "Chris Gayle",
+        "role": "Allrounder",
+        "country": "West Indies",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316494.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 463,
+            "runs": 14562,
+            "strike_rate": 144.75,
+            "economy": 7.62,
+            "wickets_taken": 83
+        }
+    },
+    {
+        "id": 184,
+        "name": "Jalaj Saxena",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 77,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/151600/151678.jpg",
+        "capped": 0.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 70,
+            "runs": 661,
+            "strike_rate": 87.08,
+            "economy": 6.74,
+            "wickets_taken": 72
+        }
+    },
+    {
+        "id": 185,
+        "name": "Jimmy Neesham",
+        "role": "Allrounder",
+        "country": "New Zealand",
+        "rating": 77,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383171.1.png",
+        "capped": 1.0,
+        "style": "Right-Arm Medium Fast Bowler,Left-Handed Batsman",
+        "stats": {
+            "matches": 282,
+            "runs": 92,
+            "strike_rate": 98.9,
+            "economy": 9.27,
+            "wickets_taken": 8
+        }
+    },
+    {
+        "id": 186,
+        "name": "Piyush Chawla",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322272.1.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder",
+        "stats": {
+            "matches": 295,
+            "runs": 1565,
+            "strike_rate": 123.52,
+            "economy": 7.53,
+            "wickets_taken": 315
+        }
+    },
+    {
+        "id": 187,
+        "name": "Kieron Pollard",
+        "role": "Allrounder",
+        "country": "West Indies",
+        "rating": 95,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320107.1.png",
+        "capped": 1.0,
+        "style": "Batting Allrounder",
+        "stats": {
+            "matches": 687,
+            "runs": 13355,
+            "strike_rate": 150.51,
+            "economy": 8.24,
+            "wickets_taken": 326
+        }
+    },
+    {
+        "id": 188,
+        "name": "Marco Jansen",
+        "role": "Allrounder",
+        "country": "South Africa",
+        "rating": 82,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390500/390543.2.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder",
+        "stats": {
+            "matches": 83,
+            "runs": 613,
+            "strike_rate": 137.75,
+            "economy": 8.38,
+            "wickets_taken": 91
+        }
+    },
+    {
+        "id": 189,
+        "name": "Krunal Pandya",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322614.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 198,
+            "runs": 2709,
+            "strike_rate": 131.56,
+            "economy": 7.25,
+            "wickets_taken": 137
+        }
+    },
+    {
+        "id": 190,
+        "name": "Hardik Pandya",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 87,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/388300/388343.5.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 272,
+            "runs": 4936,
+            "strike_rate": 140.74,
+            "economy": 8.3,
+            "wickets_taken": 177
+        }
+    },
+    {
+        "id": 191,
+        "name": "Marcus Stoinis",
+        "role": "Allrounder",
+        "country": "Australia",
+        "rating": 81,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321596.2.png",
+        "capped": 1.0,
+        "style": "Batting Allrounder",
+        "stats": {
+            "matches": 290,
+            "runs": 5966,
+            "strike_rate": 137.56,
+            "economy": 9.04,
+            "wickets_taken": 152
+        }
+    },
+    {
+        "id": 192,
+        "name": "Chris Woakes",
+        "role": "Allrounder",
+        "country": "England",
+        "rating": 86,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316603.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 162,
+            "runs": 1021,
+            "strike_rate": 129.07,
+            "economy": 8.21,
+            "wickets_taken": 172
+        }
+    },
+    {
+        "id": 193,
+        "name": "Ravichandran Ashwin",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 97,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316521.2.png",
+        "capped": 1.0,
+        "style": "Bowling Allrounder",
+        "stats": {
+            "matches": 324,
+            "runs": 1200,
+            "strike_rate": 119.88,
+            "economy": 7.06,
+            "wickets_taken": 310
+        }
+    },
+    {
+        "id": 194,
+        "name": "Lalit Yadav",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 88,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/253000/253033.1.jpg",
+        "capped": 0.0,
+        "style": "Right arm Medium fast",
+        "stats": {
+            "matches": 82,
+            "runs": 19,
+            "strike_rate": 79.16,
+            "economy": 7.68,
+            "wickets_taken": 7
+        }
+    },
+    {
+        "id": 195,
+        "name": "Axar Patel",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331164.2.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 259,
+            "runs": 2889,
+            "strike_rate": 134.55,
+            "economy": 7.04,
+            "wickets_taken": 224
+        }
+    },
+    {
+        "id": 196,
+        "name": "Ben Stokes",
+        "role": "Allrounder",
+        "country": "England",
+        "rating": 83,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319748.1.png",
+        "capped": 1.0,
+        "style": "Allrounder",
+        "stats": {
+            "matches": 162,
+            "runs": 3027,
+            "strike_rate": 132.87,
+            "economy": 8.48,
+            "wickets_taken": 93
+        }
+    },
+    {
+        "id": 197,
+        "name": "Chris Morris",
+        "role": "Allrounder",
+        "country": "South Africa",
+        "rating": 92,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320342.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm fast medium",
+        "stats": {
+            "matches": 234,
+            "runs": 1868,
+            "strike_rate": 150.04,
+            "economy": 7.78,
+            "wickets_taken": 290
+        }
+    },
+    {
+        "id": 198,
+        "name": "Shreyas Gopal",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 90,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322275.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, legbreak",
+        "stats": {
+            "matches": 97,
+            "runs": 471,
+            "strike_rate": 119.24,
+            "economy": 7.6,
+            "wickets_taken": 110
+        }
+    },
+    {
+        "id": 199,
+        "name": "Mahipal Lomror",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 91,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/315000/315015.jpg",
+        "capped": 1.0,
+        "style": "left hand bat, slow left arm orthodox",
+        "stats": {
+            "matches": 100,
+            "runs": 1991,
+            "strike_rate": 129.03,
+            "economy": 7.51,
+            "wickets_taken": 9
+        }
+    },
+    {
+        "id": 200,
+        "name": "Shivam Dube",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 80,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383700/383773.1.png",
+        "capped": 1.0,
+        "style": "left hand bat, right arm medium",
+        "stats": {
+            "matches": 148,
+            "runs": 2842,
+            "strike_rate": 141.18,
+            "economy": 8.82,
+            "wickets_taken": 49
+        }
+    },
+    {
+        "id": 201,
+        "name": "Shakib Al Hasan",
+        "role": "Allrounder",
+        "country": "Bangladesh",
+        "rating": 99,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316581.1.png",
+        "capped": 1.0,
+        "style": "left hand bat, slow left arm orthodox",
+        "stats": {
+            "matches": 444,
+            "runs": 7438,
+            "strike_rate": 124.69,
+            "economy": 6.79,
+            "wickets_taken": 492
+        }
+    },
+    {
+        "id": 202,
+        "name": "Andre Russell",
+        "role": "Allrounder",
+        "country": "West Indies",
+        "rating": 90,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316615.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm fast",
+        "stats": {
+            "matches": 526,
+            "runs": 8844,
+            "strike_rate": 169.29,
+            "economy": 8.69,
+            "wickets_taken": 464
+        }
+    },
+    {
+        "id": 203,
+        "name": "Pawan Negi",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 93,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322700/322700.1.png",
+        "capped": 1.0,
+        "style": "left hand bat, slow left arm orthodox",
+        "stats": {
+            "matches": 119,
+            "runs": 803,
+            "strike_rate": 122.22,
+            "economy": 7.44,
+            "wickets_taken": 96
+        }
+    },
+    {
+        "id": 204,
+        "name": "Jason Holder",
+        "role": "Allrounder",
+        "country": "West Indies",
+        "rating": 87,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316673.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm medium fast",
+        "stats": {
+            "matches": 261,
+            "runs": 2314,
+            "strike_rate": 127.84,
+            "economy": 8.29,
+            "wickets_taken": 254
+        }
+    },
+    {
+        "id": 205,
+        "name": "Mohammad Nabi",
+        "role": "Allrounder",
+        "country": "Afghanistan",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381900/381920.2.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm offbreak",
+        "stats": {
+            "matches": 417,
+            "runs": 5996,
+            "strike_rate": 134.89,
+            "economy": 6.99,
+            "wickets_taken": 360
+        }
+    },
+    {
+        "id": 206,
+        "name": "Vijay Shankar",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 84,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322613.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm medium",
+        "stats": {
+            "matches": 141,
+            "runs": 2253,
+            "strike_rate": 128.52,
+            "economy": 8.22,
+            "wickets_taken": 33
+        }
+    },
+    {
+        "id": 207,
+        "name": "Kedar Jadhav",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 89,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323031.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm offbreak",
+        "stats": {
+            "matches": 163,
+            "runs": 2592,
+            "strike_rate": 129.53,
+            "economy": 7.81,
+            "wickets_taken": 6
+        }
+    },
+    {
+        "id": 208,
+        "name": "Shahbaz Ahmed",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/340300/340313.1.png",
+        "capped": 1.0,
+        "style": "left hand bat, slow left arm orthodox",
+        "stats": {
+            "matches": 97,
+            "runs": 1049,
+            "strike_rate": 129.34,
+            "economy": 4.44,
+            "wickets_taken": 62
+        }
+    },
+    {
+        "id": 209,
+        "name": "Abhishek Sharma",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/358000/358037.1.png",
+        "capped": 1.0,
+        "style": "left hand bat, slow left arm orthodox",
+        "stats": {
+            "matches": 117,
+            "runs": 2971,
+            "strike_rate": 155.87,
+            "economy": 7.16,
+            "wickets_taken": 36
+        }
+    },
+    {
+        "id": 210,
+        "name": "Sanvir Singh",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 71,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/359700/359765.1.png",
+        "capped": 0.0,
+        "style": "right hand bat, right arm medium",
+        "stats": {
+            "matches": 30,
+            "runs": 318,
+            "strike_rate": 187.05,
+            "economy": 9.72,
+            "wickets_taken": 5
+        }
+    },
+    {
+        "id": 211,
+        "name": "Nitish Kumar Reddy",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314800/314899.png",
+        "capped": 0.0,
+        "style": "right hand bat, right arm medium fast",
+        "stats": {
+            "matches": 23,
+            "runs": 485,
+            "strike_rate": 135.47,
+            "economy": 10.49,
+            "wickets_taken": 6
+        }
+    },
+    {
+        "id": 212,
+        "name": "Ramandeep Singh",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 87,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380600/380670.5.png",
+        "capped": 0.0,
+        "style": "right hand bat, right arm medium",
+        "stats": {
+            "matches": 57,
+            "runs": 544,
+            "strike_rate": 170.0,
+            "economy": 7.86,
+            "wickets_taken": 16
+        }
+    },
+    {
+        "id": 213,
+        "name": "Riyan Parag",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 96,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/370900/370935.1.png",
+        "capped": 1.0,
+        "style": "right arm offbreak, right hand bat",
+        "stats": {
+            "matches": 123,
+            "runs": 2722,
+            "strike_rate": 143.4,
+            "economy": 7.21,
+            "wickets_taken": 45
+        }
+    },
+    {
+        "id": 214,
+        "name": "Rahul Tewatia",
+        "role": "Allrounder",
+        "country": "India",
+        "rating": 94,
+        "images": "https://documents.iplt20.com/ipl/IPLHeadshot2024/120.png",
+        "capped": 1.0,
+        "style": "left hand bat, legbreak",
+        "stats": {
+            "matches": 147,
+            "runs": 1914,
+            "strike_rate": 143.04,
+            "economy": 7.4,
+            "wickets_taken": 69
+        }
+    },
+    {
+        "id": 215,
+        "name": "Daryl Mitchell",
+        "role": "Allrounder",
+        "country": "New Zealand",
+        "rating": 77,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383147.2.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm medium",
+        "stats": {
+            "matches": 212,
+            "runs": 4605,
+            "strike_rate": 135.64,
+            "economy": 9.35,
+            "wickets_taken": 77
+        }
+    },
+    {
+        "id": 216,
+        "name": "Will Jacks",
+        "role": "Allrounder",
+        "country": "England",
+        "rating": 98,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383155.1.png",
+        "capped": 1.0,
+        "style": "right hand bat, right arm offbreak",
+        "stats": {
+            "matches": 186,
+            "runs": 47354,
+            "strike_rate": 158.3,
+            "economy": 7.38,
+            "wickets_taken": 60
+        }
+    },
+    {
+        "id": 217,
+        "name": "Cameron Green",
+        "role": "Allrounder",
+        "country": "Australia",
+        "rating": 65,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321569.2.png",
+        "capped": 1.0,
+        "style": "right hand bat",
+        "stats": {
+            "matches": 55,
+            "runs": 1076,
+            "strike_rate": 147.39,
+            "economy": 48.64,
+            "wickets_taken": 49
+        }
+    },
+    {
+        "id": 218,
+        "name": "Rahul Tewatia",
+        "role": "Allrounder",
+        "country": "India ",
+        "rating": 94,
+        "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322269.1.png",
+        "capped": 1.0,
+        "style": "legbreak",
+        "stats": {
+            "matches": 147,
+            "runs": 1914,
+            "strike_rate": 143.04,
+            "economy": 7.4,
+            "wickets_taken": 69
+        }
+    }
+]
