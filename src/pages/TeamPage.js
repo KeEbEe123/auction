@@ -174,7 +174,7 @@ function TeamPage() {
       {/* Team Info */}
       <div className="flex flex-col items-center mb-6">
         <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 p-2">
-          Budget Remaining: ₹{teamDetails.budget} crores
+          Budget Remaining: ₹{teamDetails.budget.toFixed(2)} crores
         </p>
         <p className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-300">
           Selected Players: {selectedPlayers.length}/11

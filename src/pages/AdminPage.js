@@ -189,6 +189,8 @@ function AdminPage() {
                     onClick={() => setSelectedPlayer(player)}
                   >
                     <p className="text-lg font-bold">{player.name}</p>
+                    <p>{player.capped ? "capped" : "uncapped"}</p>
+                    <p>rating: {player.rating}</p>
                   </div>
                 ))}
             </div>

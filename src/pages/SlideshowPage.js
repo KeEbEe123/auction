@@ -28,11 +28,15 @@ function SlideshowPage() {
           <div className="text-center mb-6">
             {currentAuction.highestBidder ? (
               <>
-                <span className="text-4xl">Current Bid: </span>
+                <span className="text-4xl font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-slate-600 to-slate-200 ">
+                  Current Bid:{" "}
+                </span>
                 <span className="font-bold text-5xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
-                  {currentAuction.currentBid} crores
+                  {currentAuction.currentBid} cr
                 </span>{" "}
-                by {currentAuction.highestBidder}
+                <span className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-300">
+                  by {currentAuction.highestBidder}
+                </span>
               </>
             ) : (
               <>
@@ -59,11 +63,18 @@ function SlideshowPage() {
             <h1 className="font-starbirl text-6xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-4">
               <ScramblingText text={currentAuction.player.name} />
             </h1>
-            <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
+            <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-slate-600 to-slate-200 mb-2">
               {currentAuction.player.role}
             </p>
-            <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-6">
-              Rating: {currentAuction.player.rating}
+            <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-slate-600 to-slate-200 mb-6">
+              Rating:{" "}
+              <span className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-6">
+                {" "}
+                {currentAuction.player.rating}
+              </span>
+            </p>
+            <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-6 p-2">
+              {currentAuction.player.capped ? "capped" : "uncapped"}
             </p>
           </div>
 
@@ -97,18 +108,18 @@ function SlideshowPage() {
             {currentAuction.player.role === "bowler" && (
               <>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
+                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-slate-600 to-slate-200 mb-2">
                     Wickets
                   </h2>
-                  <p className="font-bold text-white text-3xl">
+                  <p className="font-amsterdam text-6xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
                     {currentAuction.player.stats.wickets}
                   </p>
                 </div>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
+                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-slate-600 to-slate-200 mb-2">
                     Economy
                   </h2>
-                  <p className="font-bold text-white text-3xl">
+                  <p className="font-amsterdam text-6xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
                     {currentAuction.player.stats.economy}
                   </p>
                 </div>

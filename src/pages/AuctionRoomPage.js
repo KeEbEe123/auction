@@ -222,7 +222,7 @@ function AuctionRoomPage() {
                 <br />
                 Room
               </h1>
-              <p className="font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-400 text-[200px] rotate-[270deg] absolute left-[-80px] top-[250px]">
+              <p className="font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-400 text-[200px] rotate-[270deg] absolute left-[-60px] top-[250px]  ">
                 {teamName}
               </p>
             </>
@@ -293,7 +293,10 @@ function AuctionRoomPage() {
               </div>
             </>
           ) : (
-            <div className="flex justify-center items-center h-full">
+            <div className="flex flex-col justify-center items-center h-full">
+              <p className="flex text-transparent bg-clip-text bg-gradient-to-t from-slate-600 to-slate-400 font-starbirl text-4xl m-auto">
+                Wait for player to go on auction
+              </p>{" "}
               <LoadingSpinner />
             </div>
           )}
