@@ -129,7 +129,7 @@ function SlideshowPage() {
             {currentAuction.player.role === "Allrounder" && (
               <>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
+                  <h2 className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
                     Runs
                   </h2>
                   <p className="font-bold text-white text-3xl">
@@ -139,7 +139,7 @@ function SlideshowPage() {
                   </p>
                 </div>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
+                  <h2 className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
                     Wickets
                   </h2>
                   <p className="font-bold text-white text-3xl">
@@ -149,7 +149,7 @@ function SlideshowPage() {
                   </p>
                 </div>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
+                  <h2 className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
                     Strike Rate
                   </h2>
                   <p className="font-bold text-white text-3xl">
@@ -159,7 +159,7 @@ function SlideshowPage() {
                   </p>
                 </div>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
+                  <h2 className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200 mb-2">
                     Economy
                   </h2>
                   <p className="font-bold text-white text-3xl ">
@@ -174,7 +174,7 @@ function SlideshowPage() {
             {currentAuction.player.role === "Wicketkeeper Batter" && (
               <>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
+                  <h2 className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
                     Runs
                   </h2>
                   <p className="font-bold text-white text-3xl">
@@ -184,7 +184,7 @@ function SlideshowPage() {
                   </p>
                 </div>
                 <div className="text-center bg-slate-900 p-4 rounded">
-                  <h2 className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
+                  <h2 className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-2">
                     Strike Rate:
                   </h2>
                   <p className="font-bold text-white text-3xl">
