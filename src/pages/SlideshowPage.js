@@ -87,7 +87,7 @@ function SlideshowPage() {
                     Runs
                   </h2>
                   <p className="font-bold text-white text-3xl">
-                    <span className="font-amsterdam">
+                    <span className="font-amsterdam text-4xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
                       {currentAuction.player.stats.runs}
                     </span>
                   </p>
@@ -97,7 +97,7 @@ function SlideshowPage() {
                     Strike Rate
                   </h2>
                   <p className="font-bold text-white text-3xl">
-                    <span className="font-amsterdam">
+                    <span className="font-amsterdam text-4xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
                       {currentAuction.player.stats.strike_rate}
                     </span>
                   </p>
@@ -178,7 +178,7 @@ function SlideshowPage() {
                     Runs
                   </h2>
                   <p className="font-bold text-white text-3xl">
-                    <span className="font-amsterdam">
+                    <span className="font-amsterdam text-4xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
                       {currentAuction.player.stats.runs}
                     </span>
                   </p>
@@ -188,7 +188,7 @@ function SlideshowPage() {
                     Strike Rate:
                   </h2>
                   <p className="font-bold text-white text-3xl">
-                    <span className="font-amsterdam">
+                    <span className="font-amsterdam text-4xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
                       {currentAuction.player.stats.strike_rate}
                     </span>
                   </p>

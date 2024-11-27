@@ -10,6 +10,7 @@ import {
   doc,
 } from "firebase/firestore";
 import { useAuthState } from "react-firebase-hooks/auth";
+import ScramblingTextRename from "../components/ScramblingTextRename";
 
 function TeamPage() {
   const [user] = useAuthState(auth);
@@ -24,8 +25,11 @@ function TeamPage() {
   });
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(true);
+  const [roleCountArray, setRoleCountArray] = useState([]);
 
   useEffect(() => {
+    let intervalId;
+
     const fetchTeamDetails = async () => {
       if (!user) return;
       try {
@@ -57,8 +61,57 @@ function TeamPage() {
     };
 
     fetchTeamDetails();
+
+    intervalId = setInterval(() => {
+      fetchTeamDetails();
+    }, 3000);
+
+    return () => clearInterval(intervalId);
   }, [user]);
 
+  useEffect(() => {
+    if (!teamDetails?.players) return;
+
+    // Calculate the role counts
+    const counts = teamDetails.players.reduce(
+      (acc, player) => {
+        if (
+          player.role === "Batsman" ||
+          player.role === "Wicketkeeper Batter"
+        ) {
+          acc.batsman++;
+        }
+        if (player.role === "Wicketkeeper Batter") {
+          acc.wicketkeeper++;
+        }
+        if (player.role === "bowler") {
+          acc.bowler++;
+        }
+        if (player.role === "Allrounder") {
+          acc.allrounder++;
+        }
+        if (player.capped === 0) {
+          acc.uncapped++;
+        }
+        return acc;
+      },
+      {
+        batsman: 0,
+        wicketkeeper: 0,
+        bowler: 0,
+        allrounder: 0,
+        uncapped: 0,
+      }
+    );
+
+    // Convert counts to an array of objects for use later
+    const countsArray = Object.entries(counts).map(([role, count]) => ({
+      role,
+      count,
+    }));
+
+    setRoleCountArray(countsArray);
+  }, [teamDetails?.players]);
   const calculateRoleCounts = (players) => {
     const counts = {
       batsman: 0,
@@ -68,6 +121,48 @@ function TeamPage() {
       uncapped: 0,
     };
     players.forEach((player) => {
+      if (player.role === "Batsman" || player.role === "Wicketkeeper Batter") {
+        counts.batsman += 1;
+      }
+      if (player.role === "Wicketkeeper Batter") counts.wicketkeeper += 1;
+      if (player.role === "bowler") counts.bowler += 1;
+      if (player.role === "Allrounder") counts.allrounder += 1;
+      if (player.capped === 0) counts.uncapped += 1;
+    });
+    return counts; // Return counts so they can be set when player is added
+  };
+
+  const togglePlayerSelection = (player) => {
+    let updatedSelectedPlayers;
+    if (selectedPlayers.some((p) => p.name === player.name)) {
+      // Remove player
+      updatedSelectedPlayers = selectedPlayers.filter(
+        (p) => p.name !== player.name
+      );
+    } else if (selectedPlayers.length < 13) {
+      // Add player
+      updatedSelectedPlayers = [...selectedPlayers, player];
+    } else {
+      setError("You can only select a maximum of 13 players.");
+      return;
+    }
+
+    // Update the selected players list
+    setSelectedPlayers(updatedSelectedPlayers);
+
+    // Recalculate the role counts based on the updated selection
+    updateRoleCountsAfterSelection(updatedSelectedPlayers);
+  };
+  const updateRoleCountsAfterSelection = (newSelectedPlayers) => {
+    const counts = {
+      batsman: 0,
+      wicketkeeper: 0,
+      bowler: 0,
+      allrounder: 0,
+      uncapped: 0,
+    };
+
+    newSelectedPlayers.forEach((player) => {
       if (player.role === "Batsman" || player.role === "Wicketkeeper Batter")
         counts.batsman += 1;
       if (player.role === "Wicketkeeper Batter") counts.wicketkeeper += 1;
@@ -75,8 +170,11 @@ function TeamPage() {
       if (player.role === "Allrounder") counts.allrounder += 1;
       if (player.capped === 0) counts.uncapped += 1;
     });
+
+    // Update role counts state
     setRoleCounts(counts);
   };
+
   const calculateAverageRating = () => {
     const totalRating = selectedPlayers.reduce(
       (sum, player) => sum + player.rating,
@@ -86,19 +184,11 @@ function TeamPage() {
       ? (totalRating / selectedPlayers.length).toFixed(2)
       : 0;
   };
-
-  const togglePlayerSelection = (player) => {
-    if (selectedPlayers.some((p) => p.name === player.name)) {
-      setSelectedPlayers(selectedPlayers.filter((p) => p.name !== player.name));
-    } else if (selectedPlayers.length < 11) {
-      setSelectedPlayers([...selectedPlayers, player]);
-      calculateRoleCounts([...selectedPlayers, player]);
-    } else {
-      setError("You can only select a maximum of 11 players.");
-    }
-  };
-
   const handleSubmit = async () => {
+    if (teamDetails.players.length !== 13) {
+      setError("Please buy atleast 13 players first");
+      return;
+    }
     if (selectedPlayers.length !== 11) {
       setError("You must select exactly 11 players.");
       return;
@@ -122,9 +212,8 @@ function TeamPage() {
 
     try {
       const averageRating = calculateAverageRating();
-      const teamRef = doc(db, "submissions", teamDetails.name); // Document ID is the team name
+      const teamRef = doc(db, "submissions", teamDetails.name);
 
-      // Create or update the submission document
       await setDoc(teamRef, {
         submittedPlayers: selectedPlayers,
         closingBudget: teamDetails.budget,
@@ -132,6 +221,7 @@ function TeamPage() {
       });
 
       alert("Team submitted successfully!");
+      setError("");
     } catch (error) {
       console.error("Error submitting team:", error);
     }
@@ -139,25 +229,23 @@ function TeamPage() {
 
   if (loading)
     return (
-      <div className="p-8 bg-custom-pattern bg-slate-950 min-h-screen flex justify-center items-center relative">
-        <p className="font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 text-4xl">
+      <div className="p-8 bg-custom-pattern bg-slate-950 min-h-screen flex justify-center items-center">
+        <p className="font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 text-4xl">
           Loading your team details...
         </p>
       </div>
     );
   if (!teamDetails)
     return (
-      <div className="p-8 bg-custom-pattern bg-slate-950 min-h-screen flex justify-center items-center relative">
-        {" "}
-        <p className="font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 text-4xl ">
+      <div className="p-8 bg-custom-pattern bg-slate-950 min-h-screen flex justify-center items-center">
+        <p className="font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 text-4xl">
           You are not currently part of any team.
         </p>
       </div>
     );
 
   return (
-    <div className="p-8 bg-custom-pattern bg-slate-950 min-h-screen flex flex-col items-center relative">
-      {/* Page Header */}
+    <div className="p-8 bg-custom-pattern bg-slate-950 min-h-screen flex flex-col items-center">
       <div className="absolute top-7 right-40 p-7">
         <button
           onClick={handleSubmit}
@@ -167,59 +255,80 @@ function TeamPage() {
         </button>
       </div>
 
-      <h1 className="font-starbirl text-6xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-violet-400 mb-8 p-4">
-        Team: {teamDetails.name}
+      <h1 className="font-amsterdam text-6xl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-violet-400 p-4">
+        {teamDetails.name} Dashboard
       </h1>
 
-      {/* Team Info */}
       <div className="flex flex-col items-center mb-6">
-        <p className="font-starbirl text-3xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 p-2">
-          Budget Remaining: ₹{teamDetails.budget.toFixed(2)} crores
+        <p className="font-amsterdam text-6xl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-100 p-2">
+          Budget Remaining: ₹{" "}
+          <ScramblingTextRename text={teamDetails.budget.toFixed(2)} /> crores
         </p>
-        <p className="font-starbirl text-2xl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-300">
-          Selected Players: {selectedPlayers.length}/11
+        <p className="font-amsterdam text-5xl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-300">
+          Players Bought: {teamDetails.players.length}/13
         </p>
+        <p className="font-amsterdam text-4xl text-red-500 m-4">{error}</p>
       </div>
 
-      {/* Roles Needed */}
-      <div className="mb-6 w-full max-w-3xl bg-slate-800 p-6 rounded-lg shadow-md">
-        <h2 className="text-2xl font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-4">
-          Roles Needed:
-        </h2>
-        <ul className="text-lg font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200">
-          <li>Batsmen: {roleCounts.batsman}/5</li>
-          <li>Wicketkeeper: {roleCounts.wicketkeeper}/1</li>
-          <li>Bowlers: {roleCounts.bowler}/4</li>
-          <li>Allrounders: {roleCounts.allrounder}/2</li>
-          <li>uncapped: {roleCounts.allrounder}/2</li>
-        </ul>
+      <div className="flex justify-between mb-6 w-full max-w-2xl bg-slate-800 p-6 rounded-lg shadow-md">
+        <div>
+          <h2 className="text-4xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-4 ">
+            Players Bought:
+          </h2>
+          <ul className="text-3xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200">
+            {roleCountArray.map(({ role, count }) => (
+              <li key={role}>
+                {role}: {count}
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div>
+          <h2 className="text-4xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 mb-4">
+            Players Selected:
+          </h2>
+          <ul className="text-3xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-400 to-slate-200">
+            <li>Batsmen: {roleCounts.batsman}/5</li>
+            <li>Wicketkeepers: {roleCounts.wicketkeeper}/1 </li>
+            <li>Bowlers: {roleCounts.bowler}/4</li>
+            <li>Allrounders: {roleCounts.allrounder}/2</li>
+            <li>Uncapped: {roleCounts.uncapped}/1</li>
+          </ul>
+        </div>
       </div>
-      {error && <p className="text-red-500 mt-4">{error}</p>}
-      {/* Players Grid */}
-      <div className="grid grid-cols-3 gap-6 max-w-5xl">
-        {teamDetails.players.map((player, index) => (
+
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6 w-full max-w-8xl">
+        {teamDetails.players.map((player) => (
           <div
-            key={index}
-            className={`border rounded-lg p-4 shadow cursor-pointer ${
+            key={player.name}
+            className={`p-4 border rounded-lg shadow-lg cursor-pointer transform hover:scale-105 transition-transform ${
               selectedPlayers.some((p) => p.name === player.name)
                 ? "bg-blue-400/30"
                 : "bg-slate-800"
-            } transition-all`}
+            }`}
             onClick={() => togglePlayerSelection(player)}
           >
             <img
-              src={player.images || "https://via.placeholder.com/150"}
+              src={player.images}
               alt={player.name}
-              className="w-24 h-24 mx-auto mb-4 rounded-full object-cover"
+              className="w-32 h-32 mx-auto mb-4 rounded-full object-cover"
             />
-            <h3 className="text-xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
+            <h3 className="text-4xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300">
               {player.name}
             </h3>
-            <p className="font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-slate-700 to-slate-100">
-              Role: {player.role}
+            <p className="text-3xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-700 to-slate-100">
+              {player.role}
             </p>
-            <p className="font-starbirl text-transparent bg-clip-text bg-gradient-to-t from-slate-700 to-slate-100">
-              Rating: {player.rating}
+            <p className="text-3xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-700 to-slate-100">
+              Rating:{" "}
+              <span className="font-amsterdam text-3xl text-transparent bg-clip-text bg-gradient-to-t from-red-500 to-yellow-300">
+                {" "}
+                {player.rating}{" "}
+              </span>
+            </p>
+            <p className="text-3xl font-amsterdam text-transparent bg-clip-text bg-gradient-to-t from-slate-700 to-slate-100">
+              {player.capped ? "capped" : "uncapped"}
             </p>
           </div>
         ))}

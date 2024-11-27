@@ -6,16 +6,29 @@ import PlayerRoles from "./components/PlayerRoles";
 import TeamPage from "./pages/TeamPage";
 import SubmissionsPage from "./pages/SubmissionsPage";
 import SlideshowPage from "./pages/SlideshowPage";
+import ProtectedRoute from "./pages/ProtectedRoute";
 function App() {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/admin" element={<AdminPage />} />
-        <Route path="/auction-room" element={<AuctionRoomPage />} />
-        <Route path="/players" element={<PlayerRoles />} />
+        <Route
+          path="/admin"
+          element={
+            <ProtectedRoute>
+              <AdminPage />
+            </ProtectedRoute>
+          }
+        />
         <Route path="/team" element={<TeamPage />} />
-        <Route path="/submissions" element={<SubmissionsPage />} />
+        <Route
+          path="/submissions"
+          element={
+            <ProtectedRoute>
+              <SubmissionsPage />
+            </ProtectedRoute>
+          }
+        />
         <Route path="/slideshow" element={<SlideshowPage />} />
       </Routes>
     </Router>

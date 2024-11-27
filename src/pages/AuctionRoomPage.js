@@ -236,7 +236,7 @@ function AuctionRoomPage() {
               <img
                 src={currentAuction.player.images}
                 alt={`${currentAuction.player.name}`}
-                className="w-32 h-32 mx-auto mb-4 rounded-full object-cover"
+                className="w-48 h-48 mx-auto mb-4 rounded-full object-cover"
               />
               <h2 className="text-5xl  text-transparent bg-clip-text bg-gradient-to-t from-blue-700 to-blue-300 font-amsterdam font-bold mb-2">
                 <ScramblingText text={currentAuction.player.name} />
